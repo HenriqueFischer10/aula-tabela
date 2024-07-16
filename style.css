@@ -1,0 +1,26 @@
+.texto {
+    margin: 40px;
+    padding: 20px;
+    }
+
+.paragrafo-padrao {
+    background-color: #f5f5f5;
+}
+
+.paragrafo-destacado {
+    background-color: #f0cce2;
+}
+
+.produtos-moda {
+    background-color:#BB86FC;
+    }
+
+.produtos-casa {
+    background-color:#00C4B4;
+    }
+
+.produto {
+    color: #ffffff;
+    background-color: #424250;
+    }
+    
